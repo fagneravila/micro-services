@@ -1,0 +1,10 @@
+br\com\fagner\converters\NumberConverter.class
+br\com\fagner\exception\ExceptionResponse.class
+br\com\fagner\foo\Greeting.class
+br\com\fagner\math\SimpleMath.class
+br\com\fagner\foo\controller\PersonController.class
+br\com\fagner\exception\UnsuportedMathOperationException.class
+br\com\fagner\exception\handler\CustomizedResponseEntityExceptionHandler.class
+br\com\fagner\foo\FooApplication.class
+br\com\fagner\model\Person.class
+br\com\fagner\services\PersonService.class
