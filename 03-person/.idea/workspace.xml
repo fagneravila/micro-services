@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e5d6cb8-1ebd-4528-aea4-45bf3ec30a36" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../02-calculator/src/main/java/br/com/fagner/converters/NumberConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../02-calculator/src/main/java/br/com/fagner/foo/controller/MathController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../02-calculator/src/main/java/br/com/fagner/math/SimpleMath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/fagner/model/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/fagner/services/PersonService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02-calculator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../02-calculator/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02-calculator/src/main/java/br/com/fagner/foo/MathController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02-calculator/target/classes/br/com/fagner/foo/MathController.class" beforeDir="false" />
-    </list>
+    <list default="true" id="8e5d6cb8-1ebd-4528-aea4-45bf3ec30a36" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
