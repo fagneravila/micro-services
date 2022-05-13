@@ -1,5 +1,26 @@
 server:
   port: 8100
+eureka:
+  service-url:
+    defaultZone: http://localhost:8761/eureka
+resilience4j:
+  bulkhead:
+    instances:
+      default:
+       maxConcurrentCalls: 10
+
+
+  ratelimiter:
+    instances:
+      default:
+        limitForPeriod: 2
+        limitRefreshPeriod: 10s
+  retry:
+     instances:
+       default:
+         maxAttempts: 5
+         waitDuration: 1s
+         enableExponentialBackoff: true
 spring:
   application:
     name: book-service
@@ -24,3 +45,6 @@ spring:
     schemas: book_service
     user: root
     password: root
+springdoc:
+  api-docs:
+    path: book-service/v3/api-docs
